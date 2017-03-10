@@ -3,11 +3,3 @@
 删除了两个字，一行
 
 新加的一行
-
-modiffy by bobbi
-
-add new line
-
-new branch
-
-new branch second
